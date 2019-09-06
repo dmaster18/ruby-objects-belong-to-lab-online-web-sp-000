@@ -1,3 +1,3 @@
 class Artist
-  def initialize(artist, )
+  def initialize(artist, genre)
 end
