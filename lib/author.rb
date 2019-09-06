@@ -1,4 +1,4 @@
 class Post
-  def initialize(title, )
+  def initialize(title, author)
   
 end
